@@ -1,0 +1,25 @@
+{
+  "name": "html-table",
+  "version": "1.0.0",
+  "description": "fill a table with data from an API",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --chrome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertpop47/html-table.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertpop47/html-table/issues"
+  },
+  "homepage": "https://github.com/robertpop47/html-table#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^4.3.0",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
